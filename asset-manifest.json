@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-sidebar/static/css/main.144415dd.css",
-    "main.js": "/react-sidebar/static/js/main.77775b23.js",
-    "index.html": "/react-sidebar/index.html",
-    "main.144415dd.css.map": "/react-sidebar/static/css/main.144415dd.css.map",
-    "main.77775b23.js.map": "/react-sidebar/static/js/main.77775b23.js.map"
+    "main.css": "/SidebarMenu/static/css/main.144415dd.css",
+    "main.js": "/SidebarMenu/static/js/main.77775b23.js",
+    "index.html": "/SidebarMenu/index.html",
+    "main.144415dd.css.map": "/SidebarMenu/static/css/main.144415dd.css.map",
+    "main.77775b23.js.map": "/SidebarMenu/static/js/main.77775b23.js.map"
   },
   "entrypoints": [
     "static/css/main.144415dd.css",
