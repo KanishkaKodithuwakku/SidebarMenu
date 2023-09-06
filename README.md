@@ -1,6 +1,6 @@
 # 🛠 React Sidebar Layout with Routing Tutorial
 
-<a href='https://kanishkakodithuwakku.github.io/react-sidebar'>Live Demo</a>
+<a href='[https://kanishkakodithuwakku.github.io/SidebarMenu])'>Live Demo</a>
 
 Welcome to this beginner-friendly tutorial on creating a dynamic sidebar layout using React. 🎉 If you're a budding React developer eager to understand routing, state management, or simply wish to build an intuitive sidebar layout complete with awesome icons, you're in the right place!
 
