@@ -1,15 +1,11 @@
+// App.js
 import * as React from "react";
-import { createRoot } from "react-dom/client";
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./routes/Home";
 import Products from "./routes/Products";
-import Reports from './routes/Reports';
+import Reports from "./routes/Reports";
 import AppLayout from "./components/AppLayout";
+import "./App.css";
 
 const router = createBrowserRouter([
   {
@@ -31,6 +27,8 @@ const router = createBrowserRouter([
   },
 ]);
 
-createRoot(document.getElementById("root")).render(
-  <RouterProvider router={router} />
-);
+function App() {
+  return <RouterProvider router={router} />;
+}
+
+export default App;
